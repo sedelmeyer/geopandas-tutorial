@@ -1,0 +1,11 @@
+name: geopandas-tutorial
+dependencies:
+  - python=3.7
+  - anaconda
+  - pip
+  - numpy
+  - pandas=0.24.1
+  - matplotlib
+  - geopandas
+  - pip:
+    - requests==2.21.0
