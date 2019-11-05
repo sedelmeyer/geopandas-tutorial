@@ -44,4 +44,9 @@ Raw data sources used for this analysis can be found at:
     - https://data.boston.gov/dataset/property-assessment
     - Current FY19 CSV download: https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/695a8596-5458-442b-a017-7cd72471aade/download/fy19fullpropassess.csv
 
-Enjoy!
+### Sample Geopandas Plot:
+
+Below is a sample choropleth plot created in this tutorial...
+
+
+![sample-choropleth](figures/sample-choropleth.png)
